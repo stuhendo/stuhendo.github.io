@@ -1,0 +1,81 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	text-align: center; /* for center DIV in IE */
+	background-image: url("../images/bg.jpg");
+    background-repeat: repeat;
+	font-family: Arial;
+	font-size: 12pt;
+}
+
+.container
+{
+	float: none;
+    width: 100%;
+}
+
+.one
+{
+	float: none;
+    width: 100%;
+}
+
+.two
+{
+	float: none;
+	width: 100%;
+	margin-left: 0px;
+}
+
+.bigimage {
+	display: none;
+}
+
+.homeServiceBox {
+	width: 100%;
+	text-align: center;
+}
+
+.homeServiceBoxRow {
+	float: none;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.hidemobile {
+	display: none;
+}
+
+.onlymobile {
+	display: block;
+}
+
+#solidbanner
+{
+	display: none;
+}
+
+#pagecontent
+{
+	position: relative;
+	top: 0px;
+	margin: 0px auto;
+	text-align: left;
+	width: 100%;
+}
+
+#header
+{
+	display: none;
+}
+
+#headerThin
+{
+	display: none;
+}
+
+#headerMobile
+{
+	display: block;
+}
